@@ -136,7 +136,7 @@ delay(500);
 noTone(SPEAKER);
 tone(SPEAKER, NOTE_A6);
 delay(500);
-noTone(SPEAKER)
+noTone(SPEAKER);
 tone(SPEAKER, NOTE_AS6);
 delay(500);
 noTone(SPEAKER);
@@ -149,6 +149,29 @@ noTone(SPEAKER);
 tone(SPEAKER, NOTE_B6);
 delay(500);
 noTone(SPEAKER);
+tone(SPEAKER, NOTE_E6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_E6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_F6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_FS6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_G6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_GS6);
+delay(500);
+noTone(SPEAKER);
+tone(SPEAKER, NOTE_AS6);
+delay(500);
+noTone(SPEAKER);
+
+
 
   
   digitalWrite(LED_1, HIGH);
